@@ -65,7 +65,7 @@ public class Main {
 			logger.error("Impossible de récupérer la saisie utilisateur.");
 		}
 		
-		logger.info("Arret du programme Terraforming Mars.");		
+		logger.info("Arret du programme Terraforming Mars et début du programme terraforming Jupiter.");		
 	}
 	
 	private static Set<IBloc> constructionSetBlocs() throws IllegalBlocException {
