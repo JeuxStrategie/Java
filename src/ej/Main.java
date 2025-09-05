@@ -65,7 +65,7 @@ public class Main {
 			logger.error("Impossible de récupérer la saisie utilisateur.");
 		}
 		
-		logger.info("Arret du programme Epicrafter's Journey.");		
+		logger.info("Arret du programme Terraforming Mars.");		
 	}
 	
 	private static Set<IBloc> constructionSetBlocs() throws IllegalBlocException {
